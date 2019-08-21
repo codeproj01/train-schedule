@@ -5,7 +5,7 @@
 
     firebase.initializeApp(config);
     let database = firebase.database();
-    let connectionsRef = database.ref("users1/trains");
+    let connectionsRef = database.ref("userapp/trains");
     
 	//Capture Button Click
     document.getElementById("add-train-btn").addEventListener("click", function(e) {
