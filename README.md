@@ -27,5 +27,5 @@ Users from many different machines must be able to view same train times.
 - localforage
 - firebase 
 - JavaScript Animation - A Digital Clock for the clock animation. 
-- Created by Clifton Nwokeuku 
+- Created by Clifton Nwokeuku (https://codeproj01.github.io/train-schedule/)
 - moment.js for calculating time and frequency for each train individually (https://momentjs.com/)
